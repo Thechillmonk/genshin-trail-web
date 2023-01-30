@@ -1,1 +1,0 @@
-# genshin-trail-web
