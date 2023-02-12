@@ -1,0 +1,41 @@
+body{
+   background-image: url("dragon.png");
+}
+
+hr{   
+
+  border-color:black;
+  border-style: dashed solid none none;
+  width: 30%;
+  border-width: 10px;
+}
+h1
+{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+table,th,td{
+       border-collapse:collapse;
+       border: 3px solid;
+       width: 70%;
+       text-align: center;
+}
+.zhongli{
+   background-color:orange;
+}
+.venti{
+   background-color: aqua;
+}
+.raiden{
+   background-color: purple;
+}
+.nahida{
+   background-color: green;
+}
+ol{
+  margin-left: 41pc;
+  letter-spacing: 5px;
+}
+ 
